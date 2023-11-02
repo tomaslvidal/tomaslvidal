@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Tengo Exp. como Líder Técnico y soy un apasionado por la innovación y la calidad técnica, he orientado equipos en un entorno ágil utilizando tecnologías de nube AWS.
+<p align="left">Soy Líder Técnico, apasionado por la innovación y la calidad técnica, orientando equipos en un entorno ágil y utilizando tecnologías de nube como AWS y Azure.
   <br><br>
   Destrezas:
   <br>
-  - Laravel, ExpressJS, VueJS, ReactJS, React Native
+  - Laravel, ExpressJS, VueJS, ReactJS, React Native, Next.js, Node.js, PHP
   <br>
   - Metodología Scrum y Kanban
   <br>
