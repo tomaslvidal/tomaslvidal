@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Soy Líder Técnico, apasionado por la innovación y la calidad técnica, orientando equipos en un entorno ágil y utilizando tecnologías de nube como AWS y Azure.
+<p align="left">Soy Líder Técnico, apasionado por la innovación y la calidad técnica, orientando equipos en entornos ágil y utilizando tecnologías de nube como AWS y Azure.
   <br><br>
   Destrezas:
   <br>
