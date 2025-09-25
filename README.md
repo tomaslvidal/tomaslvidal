@@ -8,6 +8,8 @@
   <br>
   - Spring Boot, Laravel, ExpressJS, VueJS, ReactJS, React Native, Next.js, Node.js, PHP, Java
   <br>
+  - Profundizando en Go por su relevancia en entornos cloud-native
+  <br>
   - Metodología Scrum y Kanban
   <br>
   - Calidad y plazos.
