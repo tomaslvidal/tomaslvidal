@@ -6,8 +6,6 @@
   <br><br>
   Destrezas:
   <br>
-  - Laravel, ExpressJS, VueJS, ReactJS, React Native, Next.js, Node.js, PHP
-  <br>
   - Metodología Scrum y Kanban
   <br>
   - Calidad y plazos.
